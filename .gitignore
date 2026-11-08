@@ -1,0 +1,10 @@
+# Local environment
+.venv/
+
+# Ego2Hands download and unpacked frames
+eval/
+Ego2Hands_eval/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
